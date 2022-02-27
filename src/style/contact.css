@@ -1,0 +1,18 @@
+.contactImage1 {
+    background-image: url("../static/img/backgrounds/contactImg1.jpg");
+  }
+  .contactImage2 {
+    background-image: url("../static/img/backgrounds/contactImg1.jpg");
+  }
+  .content {
+     font-size: 30px;
+     top: 30%;
+     height: 50%;
+     left: 30%;
+     padding: 16px;
+     background-color: rgba(74, 159, 170, 0.767);
+     color: black;
+     width: 100%;
+     text-align: center;
+     
+  }

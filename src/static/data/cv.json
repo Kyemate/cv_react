@@ -1,0 +1,26 @@
+{
+    "bio":["Jag började programmera i Visual Basic 2011. Programmering kändes väldigt naturligt för",
+    "mig och jag fastnade direkt. 2013 bestämde jag mig för att gå över till C#. Då började jag gå",
+    "in seriöst för programmering genom att lära mig allt från grunden. Sedan dess har jag haft perioder då jag kodat",
+    "intensivt och utvecklat en oräknelig mängd hobbyprojekt. Det har varit allt från hemsidor,",
+    "kopplade till databaser, till desktopverktyg som kommunicerar med C-program jag har skrivit",
+    "till en arduino över en interface.<br/><br/>",
+    "Jag kommer från en natur- och friluftsälskande familj. På sommaren försöker jag spendera",
+    "så mycket tid som möjligt i naturen genom att bland annat terrängcykla och fiska. Under",
+    "vintern åker jag skidor och knackar hobbyprojekt när mörkret faller."
+    ],
+    "experience": [ "C#", "ASP.net", "Blazor", "Threading", "Entity Framework", "WPF", "Felsökning" ],
+    "other":[ "Svenska - flytande", "Engelska - flytande", "Körkort B" ],
+    "internship":[
+        "<strong>Biometra</strong> (f.d SDC), Sundsvall 2016 (3 månader)",
+        "<strong>Office IT-service</strong>, Sundsvall 2013 (3 veckor)<br>Besökte kunder och installerade, konfigurerade nätverk, datorer, skrivare och annat."
+    ],
+    "elected office":[
+        "<strong>Vice ordförande, LUF Västernorrland</strong>  2015 - 2017"
+    ],
+    "education":[
+        "<strong>Systemutvecklare.net med Ai-kompetens, Edugrade</strong> 2021- pågående",
+        "<strong>IT-programmet, NTI-gymnasiet</strong> 2014 - 2017"
+    ]
+
+}

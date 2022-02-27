@@ -1,0 +1,31 @@
+.image1 {
+  background-image: url("../static/img/backgrounds/indexImg1.jpg");
+  }
+  .image2 {
+    background-image: url("../static/img/backgrounds/indexImg2.jpg");
+  }
+  .image3 {
+    background-image: url("../static/img/backgrounds/indexImg3.jpg");
+  }
+  .image4 {
+    background-image: url("../static/img/backgrounds/indexImg4.jpg");
+  }
+  .imgtest {
+    background-image: url("../static/img/backgrounds/indexImg2.jpg");
+    
+  }
+  .text {
+     font-size: 20px;
+     align-content: center;
+     top: 30%;
+     min-height: 50%;
+     left: 30%;
+     padding: 16px;
+     background-color: rgba(74, 170, 74, 0.767);
+     color: black;
+     width: 100%;
+     text-align: center;
+     
+  }
+
+  
