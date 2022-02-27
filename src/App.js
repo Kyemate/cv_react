@@ -9,27 +9,8 @@ import Pdf from './Pages/Pdf';
 import Projects from './Pages/Projects';
 
 export default function App() {
-  
-
-
-//   function keyEasterEgg() {
-//      window.addEventListener( 'keypress', (function() {
-//       var strToType = '123',
-//           strTyped = '';
-//       return function( event ) {
-//           var character = String.fromCharCode(event.which);
-//           strTyped += character;
-//           if (strToType.indexOf(strTyped) === -1) strTyped = '';
-//           else if (strTyped === strToType) {
-//               strTyped = '';
-//               alert('activate easteregg here');
-//           }
-//       };
-//   }()));
-// }
-
   return (
-    <Router>
+    <Router basename="/react_cv">
      <NavComp></NavComp>
      <PopUp></PopUp>
      <Routes>
