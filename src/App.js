@@ -9,7 +9,7 @@ import Pdf from './Pages/Pdf';
 import Projects from './Pages/Projects';
 
 export default function App() {
-  return (//Av någon andledning så vill inte basename="/react_cv" funka så får lösa routing såhär istället.
+  return (
     <Router basename="/react_cv">
      <NavComp></NavComp>
      <PopUp></PopUp>
