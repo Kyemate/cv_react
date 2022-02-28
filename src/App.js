@@ -10,14 +10,14 @@ import Projects from './Pages/Projects';
 
 export default function App() {
   return (
-    <Router basename="/react_cv/">
+    <Router basename="/react_cv">
      <NavComp></NavComp>
      <PopUp></PopUp>
      <Routes>
-       <Route path='/react_cv/' element={ <Home /> }/>
-       <Route path='/react_cv/projects' element={<Projects/> }/>
-       <Route path='/react_cv/contact' element={ <Contact /> }/>
-       <Route path='/react_cv/pdf' element={ <Pdf /> }/>
+       <Route path='/' element={ <Home /> }/>
+       <Route path='/projects' element={<Projects/> }/>
+       <Route path='/contact' element={ <Contact /> }/>
+       <Route path='/pdf' element={ <Pdf /> }/>
      </Routes>
     </Router>
   );
