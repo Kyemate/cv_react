@@ -14,10 +14,10 @@ export default function App() {
      <NavComp></NavComp>
      <PopUp></PopUp>
      <Routes>
-       <Route path='/' element={ <Home /> }/>
-       <Route path='projects' element={<Projects/> }/>
-       <Route path='/contact' element={ <Contact /> }/>
-       <Route path='/pdf' element={ <Pdf /> }/>
+       <Route path='/react_cv/' element={ <Home /> }/>
+       <Route path='/react_cv/projects' element={<Projects/> }/>
+       <Route path='/react_cv/contact' element={ <Contact /> }/>
+       <Route path='/react_cv/pdf' element={ <Pdf /> }/>
      </Routes>
     </Router>
   );
