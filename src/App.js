@@ -10,7 +10,7 @@ import Projects from './Pages/Projects';
 
 export default function App() {
   return (
-    <Router basename="/react_cv">
+    <Router basename="/cv_react">
      <NavComp></NavComp>
      <PopUp></PopUp>
      <Routes>
