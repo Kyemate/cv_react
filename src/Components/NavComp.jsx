@@ -24,10 +24,10 @@ export default class NavComp extends Component {
                                 className="me-auto my-2 my-lg-0"
                                 style={{ maxHeight: '100px' }}
                                 navbarScroll >
-                                <NavLink className="nav-link" to="/">Home</NavLink>
-                                <NavLink className="nav-link" to="/projects">Projects</NavLink>
-                                <NavLink className="nav-link" to="/contact">Contact</NavLink>
-                                <NavLink className="nav-link" to="/pdf">Pdf</NavLink>
+                                <NavLink className="nav-link" to="react_cv/">Home</NavLink>
+                                <NavLink className="nav-link" to="react_cv/projects">Projects</NavLink>
+                                <NavLink className="nav-link" to="react_cv/contact">Contact</NavLink>
+                                <NavLink className="nav-link" to="react_cv/pdf">Pdf</NavLink>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
