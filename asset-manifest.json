@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_cv/static/css/main.09a24a69.css",
-    "main.js": "/react_cv/static/js/main.75e10b25.js",
-    "static/js/787.5344719b.chunk.js": "/react_cv/static/js/787.5344719b.chunk.js",
-    "static/media/indexImg2.jpg": "/react_cv/static/media/indexImg2.19a25e477e8fda812d39.jpg",
-    "static/media/indexImg3.jpg": "/react_cv/static/media/indexImg3.b93ceab68dfff8867092.jpg",
-    "static/media/contactImg1.jpg": "/react_cv/static/media/contactImg1.27faf2e73e4292f48ebd.jpg",
-    "static/media/indexImg4.jpg": "/react_cv/static/media/indexImg4.a5da1d380f6555b22950.jpg",
-    "static/media/indexImg1.jpg": "/react_cv/static/media/indexImg1.c99f4acc7d17a9f318d3.jpg",
-    "static/media/CV - Henrik Zetterstrom.pdf": "/react_cv/static/media/CV - Henrik Zetterstrom.205d3cf4ec0b3938f341.pdf",
-    "static/media/logo.svg": "/react_cv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react_cv/index.html",
-    "main.09a24a69.css.map": "/react_cv/static/css/main.09a24a69.css.map",
-    "main.75e10b25.js.map": "/react_cv/static/js/main.75e10b25.js.map",
-    "787.5344719b.chunk.js.map": "/react_cv/static/js/787.5344719b.chunk.js.map"
+    "main.css": "/cv_react/static/css/main.a7f1bfbb.css",
+    "main.js": "/cv_react/static/js/main.aab8717f.js",
+    "static/js/787.5344719b.chunk.js": "/cv_react/static/js/787.5344719b.chunk.js",
+    "static/media/indexImg2.jpg": "/cv_react/static/media/indexImg2.19a25e477e8fda812d39.jpg",
+    "static/media/indexImg3.jpg": "/cv_react/static/media/indexImg3.b93ceab68dfff8867092.jpg",
+    "static/media/contactImg1.jpg": "/cv_react/static/media/contactImg1.27faf2e73e4292f48ebd.jpg",
+    "static/media/indexImg4.jpg": "/cv_react/static/media/indexImg4.a5da1d380f6555b22950.jpg",
+    "static/media/indexImg1.jpg": "/cv_react/static/media/indexImg1.c99f4acc7d17a9f318d3.jpg",
+    "static/media/CV - Henrik Zetterstrom.pdf": "/cv_react/static/media/CV - Henrik Zetterstrom.205d3cf4ec0b3938f341.pdf",
+    "static/media/logo.svg": "/cv_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cv_react/index.html",
+    "main.a7f1bfbb.css.map": "/cv_react/static/css/main.a7f1bfbb.css.map",
+    "main.aab8717f.js.map": "/cv_react/static/js/main.aab8717f.js.map",
+    "787.5344719b.chunk.js.map": "/cv_react/static/js/787.5344719b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09a24a69.css",
-    "static/js/main.75e10b25.js"
+    "static/css/main.a7f1bfbb.css",
+    "static/js/main.aab8717f.js"
   ]
 }
