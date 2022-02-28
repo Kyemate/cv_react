@@ -9,15 +9,15 @@ import Pdf from './Pages/Pdf';
 import Projects from './Pages/Projects';
 
 export default function App() {
-  return (
-    <Router basename="/react_cv">
+  return (//Av någon andledning så vill inte basename="/react_cv" funka så får lösa routing såhär istället.
+    <Router>
      <NavComp></NavComp>
      <PopUp></PopUp>
      <Routes>
-       <Route path='/' element={ <Home /> }/>
-       <Route path='/projects' element={<Projects/> }/>
-       <Route path='/contact' element={ <Contact /> }/>
-       <Route path='/pdf' element={ <Pdf /> }/>
+       <Route path='/react_cv/' element={ <Home /> }/>
+       <Route path='/react_cv/projects' element={<Projects/> }/>
+       <Route path='/react_cv/contact' element={ <Contact /> }/>
+       <Route path='/react_cv/pdf' element={ <Pdf /> }/>
      </Routes>
     </Router>
   );
